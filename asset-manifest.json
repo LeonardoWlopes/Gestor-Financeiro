@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gestor-Financeiro/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Gestor-Financeiro/static/js/main.c896944c.chunk.js",
+    "main.js.map": "/Gestor-Financeiro/static/js/main.c896944c.chunk.js.map",
+    "runtime-main.js": "/Gestor-Financeiro/static/js/runtime-main.24712f18.js",
+    "runtime-main.js.map": "/Gestor-Financeiro/static/js/runtime-main.24712f18.js.map",
+    "static/js/2.4adc63a7.chunk.js": "/Gestor-Financeiro/static/js/2.4adc63a7.chunk.js",
+    "static/js/2.4adc63a7.chunk.js.map": "/Gestor-Financeiro/static/js/2.4adc63a7.chunk.js.map",
+    "static/js/3.bca4a90b.chunk.js": "/Gestor-Financeiro/static/js/3.bca4a90b.chunk.js",
+    "static/js/3.bca4a90b.chunk.js.map": "/Gestor-Financeiro/static/js/3.bca4a90b.chunk.js.map",
+    "index.html": "/Gestor-Financeiro/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Gestor-Financeiro/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4adc63a7.chunk.js.LICENSE.txt": "/Gestor-Financeiro/static/js/2.4adc63a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24712f18.js",
+    "static/js/2.4adc63a7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c896944c.chunk.js"
+  ]
+}
